@@ -1,5 +1,5 @@
-% one-dimensional unsteady diffusion by the FTCS and Crank-Nicolson schemes
-%--------------------------------------------------------------------------
+% One-dimensional unsteady diffusion by the FTCS and Crank-Nicolson schemes
+
 clear all;
 close all;
 clc;
@@ -184,11 +184,3 @@ if (scheme==3)
     end;
     toc
 end
-
-
-
-
-
-
-
-
